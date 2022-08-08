@@ -1,2 +1,2 @@
-﻿# Case Study - Tweeter We bAPI
+﻿# Case Study - Tweeter Web API
 # TweetWebAPI
